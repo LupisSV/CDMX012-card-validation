@@ -2,13 +2,81 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>Tarjeta de crédito válida</title>
+    <title>Yumo-Soft - Card Validation</title>
     <link rel="stylesheet" href="style.css" />
+    <!-- Fuentes del proyecto -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Chewy&family=Mochiy+Pop+P+One&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Chewy&family=Mali:wght@500&display=swap" rel="stylesheet">
   </head>
-  <body>
-    <header></header>
-    <main></main>
-    <footer></footer>
+  <body class="grid">
+    <header>
+      <h1>Yumo-Soft</h1>
+      <nav>
+        <ul>
+          <li><a href="">Inicio</a></li>
+          <li><a href="">Nosotros</a></li>
+          <li><a href="">Tienda</a></li>
+          <li><a href="">Contacto</a></li>
+        </ul>
+      </nav>
+    </header>
+    <main>
+      <section id="cardValidation">
+        <h2>Método de pago</h2>
+        <div id="cardValidation_Data">
+          <h3>Datos de la Tarjeta:</h3>
+          <form action="">
+            <label for="name">Nombre del propietario de la tarjeta:</label>
+            <input type="text" id="name" name="name"><br>
+            <label for="address">Dirección de Facturación:</label>
+            <input type="text" name="adress" id="address"><br>
+            <label for="card_number">Número de la tarjeta:</label>
+            <input type="text" name="card_number" id="card_number" maxlength="16"><br>
+            <label for="cvv">CVV:</label>
+            <input type="text" name="cvv" id="cvv" maxlength="3">
+            <p>Fecha de caducidad:
+              <select name="month" >
+                <option>Mes</option>
+                <option>1</option>
+                <option>2</option>
+                <option>3</option>
+                <option>4</option>
+                <option>5</option>
+                <option>6</option>
+                <option>7</option>
+                <option>8</option>
+                <option>9</option>
+                <option>10</option>
+                <option>11</option>
+                <option>12</option>
+              </select>
+              <select name="year" >
+                <option>Año</option>
+                <option>2022</option>
+                <option>2023</option>
+                <option>2024</option>
+                <option>2025</option>
+                <option>2026</option>
+                <option>2027</option>
+                <option>2028</option>
+                <option>2029</option>
+                <option>2030</option>
+                <option>2031</option>
+                <option>2032</option>
+                <option>2033</option>
+              </select>
+            </p>
+            <input type="button" value="Ingresar tarjeta" id="validate" class="button" >
+          </form>
+        </div>
+      </section>
+    </main>
+    <footer>
+      <p>Página elaborada por: <strong> Monserrat Sandoval</strong>. Todos los derechos reservados.</p>
+    </footer>
+    <!--script src="index.js" type="module"></script-->
     <script src="index.js" type="module"></script>
   </body>
 </html>
