@@ -3,7 +3,7 @@
 ## Índice
 
 * [1. Definición del producto](#1-definición-del-producto)
-* [2. UX (Diseño de experiencia de usuario)](#2-resumen-del-proyecto)
+* [2. UX (Diseño de experiencia de usuario)](#2-ux)
 * [3. UI (Interfaz de usuario)](#3-objetivos-de-aprendizaje)
 * [4. Consideraciones generales](#4-consideraciones-generales)
 * [5. Criterios de aceptación mínimos del proyecto](#5-criterios-de-aceptación-mínimos-del-proyecto)
@@ -26,7 +26,7 @@ la suma de sus dígitos finales es un múltiplo de 10.
 
 ![gráfica de algoritmo de Luhn](https://www.101computing.net/wp/wp-content/uploads/Luhn-Algorithm.png)
 
-## 2. Resumen del proyecto
+## 2. UX
 
 En este proyecto tendrás que construir una aplicación web que le permita a un
 usuario validar el número de una tarjeta de crédito. Además, tendrás que
