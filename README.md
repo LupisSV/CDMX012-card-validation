@@ -18,7 +18,7 @@
 
 ### ¿Quiénes son los usuarios principales del producto?
 
-- [ ] **Clientes de una verterinaria: **
+- [ ] **Clientes de una verterinaria **
 - [ ] **Veterinarios**
 ### ¿Cuáles son los objetivos de estos usuarios en relación con mi producto?
 
