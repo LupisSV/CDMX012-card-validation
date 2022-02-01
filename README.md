@@ -4,7 +4,7 @@
 
 * [1. Definición del producto](#1-definición-del-producto)
 * [2. UX (Diseño de experiencia de usuario)](#2-ux)
-* [3. UI (Interfaz de usuario)](#3-objetivos-de-aprendizaje)
+* [3. UI (Interfaz de usuario)](#3-ui)
 * [4. Consideraciones generales](#4-consideraciones-generales)
 * [5. Criterios de aceptación mínimos del proyecto](#5-criterios-de-aceptación-mínimos-del-proyecto)
 * [6. Pistas, tips y lecturas complementarias](#6-pistas-tips-y-lecturas-complementarias)
@@ -42,7 +42,7 @@ Trabajando en parejas aprenderán a construir una aplicación web que interactua
 con lx usuarix final a través del navegador, utilizando HTML, CSS y JavaScript
 como tecnologías.
 
-## 3. Objetivos de aprendizaje
+## 3. UI
 
 Reflexiona y luego marca los objetivos que has llegado a entender y aplicar en tu proyecto. Piensa en eso al decidir tu estrategia de trabajo.
 
