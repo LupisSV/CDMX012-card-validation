@@ -13,6 +13,13 @@
 
 ## 1. Definición del producto
 
+
+### ¿Quiénes son los usuarios principales del producto?
+
+### ¿Cuáles son los objetivos de estos usuarios en relación con mi producto?
+
+### ¿Cómo crees que el producto creado resuelva sus problemas?
+
 El [algoritmo de Luhn](https://es.wikipedia.org/wiki/Algoritmo_de_Luhn),
 también llamado algoritmo de módulo 10, es un método de suma de verificación,
 se utiliza para validar números de identificación; tales como el IMEI de los
