@@ -101,6 +101,23 @@ footer{
 
 
 
+#resultValid{
+  color: #3EC483;
+
+}
+
+#tarjeta-enmascaradaValida{
+  color: #3EC483;
+}
+
+#resultInvalid{
+  color:red;
+}
+
+#tarjeta-enmascaradaInvalida{
+  color:red;
+}
+
 
 #cardValidation_Data{
     border: 5px #3EC483 dashed;

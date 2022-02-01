@@ -1,10 +1,31 @@
 import validator from './validator.js';
+// alert(validator.maskify())
+const validateCard = document.getElementById("validate")
+//validateCard.onclick = validator;
 
-var validateCard = document.getElementById("validate")
-validateCard.onclick = validator;
 
+validateCard.onclick = function(){
+  validator
+  var card = document.getElementById('card_number').value
+  const resultadoValidacion = validator.isValid(card)
+  if(resultadoValidacion){
+    const tarjetaEnmascarada = validator.maskify(card);
+    //alert(tarjetaEnmascarada)
+    document.getElementById('resultValid').innerText = "La tarjeta ingresada es válida"
+    document.getElementById('tarjeta-enmascaradaValida').innerHTML = tarjetaEnmascarada
+  }
+  else{
+    //alert ("No es una tarjea válida ")
+    const tarjetaEnmascarada = validator.maskify(card);
+    //alert(tarjetaEnmascarada)
+    document.getElementById('resultInvalid').innerText = "La tarjeta ingresada es inválida"
+    document.getElementById('tarjeta-enmascaradaInvalida').innerHTML = tarjetaEnmascarada
+  }
+ 
+  
+}
 
-
+//alert(validator.maskify())
 //console.log(validator)
 
 /* function validate(){
