@@ -1,21 +1,24 @@
 # Tarjeta de crédito válida
 
 ## Índice
-
-* [1. Definición del producto](#1-definición-del-producto)
-* [2. UX (Diseño de experiencia de usuario)](#2-ux)
-* [3. UI (Interfaz de usuario)](#3-ui)
+* [1. Introducción](#4-introduccion)
+* [2. Definición del producto](#1-definición-del-producto)
+* [3. UX (Diseño de experiencia de usuario)](#2-ux)
+* [4. UI (Interfaz de usuario)](#3-ui)
 * [4. Consideraciones generales](#4-consideraciones-generales)
 * [5. Criterios de aceptación mínimos del proyecto](#5-criterios-de-aceptación-mínimos-del-proyecto)
 * [6. Pistas, tips y lecturas complementarias](#6-pistas-tips-y-lecturas-complementarias)
 
 ***
 
-## 1. Definición del producto
+## 1. Introducción
+
+## 2. Definición del producto
 
 
 ### ¿Quiénes son los usuarios principales del producto?
-- [ ] **Clientes de una verterinaria**
+
+- [ ] **Clientes de una verterinaria: **
 - [ ] **Veterinarios**
 ### ¿Cuáles son los objetivos de estos usuarios en relación con mi producto?
 
@@ -34,7 +37,7 @@ la suma de sus dígitos finales es un múltiplo de 10.
 
 ![gráfica de algoritmo de Luhn](https://www.101computing.net/wp/wp-content/uploads/Luhn-Algorithm.png)
 
-## 2. UX
+## 3. UX
 
 En este proyecto tendrás que construir una aplicación web que le permita a un
 usuario validar el número de una tarjeta de crédito. Además, tendrás que
@@ -50,7 +53,7 @@ Trabajando en parejas aprenderán a construir una aplicación web que interactua
 con lx usuarix final a través del navegador, utilizando HTML, CSS y JavaScript
 como tecnologías.
 
-## 3. UI
+## 4. UI
 
 Reflexiona y luego marca los objetivos que has llegado a entender y aplicar en tu proyecto. Piensa en eso al decidir tu estrategia de trabajo.
 
