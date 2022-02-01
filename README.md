@@ -2,7 +2,7 @@
 
 ## Índice
 
-* [1. Definición del producto](#1-preámbulo)
+* [1. Definición del producto](#1-definición-del-producto)
 * [2. UX (Diseño de experiencia de usuario)](#2-resumen-del-proyecto)
 * [3. UI (Interfaz de usuario)](#3-objetivos-de-aprendizaje)
 * [4. Consideraciones generales](#4-consideraciones-generales)
@@ -11,7 +11,7 @@
 
 ***
 
-## 1. Preámbulo
+## 1. Definición del producto
 
 El [algoritmo de Luhn](https://es.wikipedia.org/wiki/Algoritmo_de_Luhn),
 también llamado algoritmo de módulo 10, es un método de suma de verificación,
