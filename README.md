@@ -15,7 +15,8 @@
 
 
 ### ¿Quiénes son los usuarios principales del producto?
-
+- [ ] **Clientes de una verterinaria**
+- [ ] **Veterinarios**
 ### ¿Cuáles son los objetivos de estos usuarios en relación con mi producto?
 
 ### ¿Cómo crees que el producto creado resuelva sus problemas?
